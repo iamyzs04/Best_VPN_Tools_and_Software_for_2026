@@ -85,7 +85,7 @@ YepFast 是典型的月付订阅型高速网络服务，我已经用了2年，�
 不想固定月付的人 
 
 三、skylumo加速器 ：https://bestvpnhere.com/vpn-info/skylumo-vpn/
-九年稳定运行，节点覆盖国家多，低至¥9.9/年付，期和流量两种，高套餐仅¥99.9/年付，支付方式：支付宝、微信
+九年稳定运行，节点覆盖国家多，低至¥9.9/年付，周期和流量两种，高套餐仅¥99.9/年付，支付方式：支付宝、微信
 
 skylumo加速器官网入口：https://skylumo.com/index.php#/register?code=IAaHgyDf
 
