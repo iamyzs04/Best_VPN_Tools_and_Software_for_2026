@@ -2,14 +2,7 @@
 2026最佳梯子、翻墙、外网、机场、科学上网VPN软件推荐 （star持续更新）
 
 在这里大家都能选的合适自己的梯子，可以按节点选梯子 https://bestvpnhere.com/
-
-		
-</body></html><!--EndFragment-->
-</body>
-</html>我从这里找到了性价比高的机场节点
-
-https://github.com/iamyzs04/Best_VPN_Tools_and_Software_for_2026
-
+  
 # 🔥 YepFast（按月） vs mojie 魔戒（按流量）对比
 
 给大家介绍两款机场节点，一个是月付的，一个是按流量付的。
