@@ -80,6 +80,7 @@ https://skylumo.com/index.php#/register?code=IAaHgyDf
 
 ## 四、星辰VPN
 直达官网：  [直达官网](https://c.kilxs.cn/?code=261oizsk) 
+星辰VPN优惠码85折限用一次：SILENT15    星辰VPN优惠码9折：XINCHENG9，购买时输入优惠码更低价
 
 专为大陆打造的**低价机场**，低至¥8/月，含原生IP，家宽IP，全面解锁全球网络：包括不限于 YouTube、Google、Twitter、ChatGPT、Netflix 等被封禁的网站 
 # 星辰VPN套餐价格：
