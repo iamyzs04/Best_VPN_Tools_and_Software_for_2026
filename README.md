@@ -3,7 +3,7 @@
 
 在这里大家都能选的合适自己的梯子，可以按节点选梯子 https://bestvpnhere.com/
   
-# 🔥 YepFast（按月） vs mojie 魔戒（按流量） vs  skylumo加速器  vs  星辰VPN  对比
+# 🔥 YepFast（按月） vs mojie 魔戒（按流量） vs  skylumo加速器 vs  海獭VPN vs  星辰VPN  对比
 
 给大家介绍几款机场节点，有月付的，有按流量付的。
 
@@ -78,7 +78,23 @@ https://skylumo.com/index.php#/register?code=IAaHgyDf
 | 基础不限时流量 | ¥29.90 / 一次性         | 50GB 用完即止   | 1 台           |
 | 旗舰不限时流量 | ¥99.99 / 一次性         | 1000GB 用完即止 | 10 台          |
 
-## 四、星辰VPN
+## 四、海獭VPN
+
+**<font color="red">成立于2023年，低至每月8元（25/季）**，HaitaVPN是一家主打稳定翻墙的机场服务商，机场由海外团队运作</font>，支付方式：支付宝、微信
+
+直达官网：  [直达官网](https://aff.joinhaita.com/register?aff=kZgJPZPx) 
+
+| 套餐      | 价格                   | 流量          | 同时在线设备        |
+| ------- | -------------------- | ----------- | ------------- |
+| Lite    | 25 元/季   | 50GB / 月    | 不限 |
+| Basic Connect    | 15.99 元/月 | 100GB / 月   | 不限           |
+| Secure Surf    | 25.99 元/月 | 200G/月   | 不限          |
+| Advanced Shield | 34.99 元/月         | 350G/月   | 不限           |
+| Total Privacy Bundle | 54.99 元/月         | 700G/月 | 不限         |
+| Global Elite Access | ¥109.98 / 月付         | 	1400GB | 不限          |
+
+ 
+## 五、星辰VPN
 直达官网：  [直达官网](https://c.kilxs.cn/?code=261oizsk) 
 
 星辰VPN优惠码85折限用一次：SILENT15    
@@ -100,9 +116,9 @@ https://skylumo.com/index.php#/register?code=IAaHgyDf
 | 入门版（年付）      | ¥99.00<br>/ 年付   | 每月 100G 流量，原生IP，家宽IP，解锁冷门节点    | 不限制        |
 | 不限时流量-B版     | ¥98.00<br>/ 一次性  | 共 300G 流量，不限时，原生IP，家宽IP，解锁冷门节点 | 不限制        |
 | 不限时流量-C版     | ¥199.00<br>/ 一次性 | 共1000G流量，不限时，原生IP，家宽IP，解锁冷门节点  | 不限制<br>    |
+ 
 
-
-## 五、极速云
+## 六、极速云
 
 极速云特点也是有周期性和按流量付费的都有。解锁冷门地区节点。
 
