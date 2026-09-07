@@ -40,7 +40,8 @@ YepFast 是典型的月付订阅型高速网络服务，**<span style="color:red
 
 魔戒mojie属于按GB计费流量机场，**<font color="red">已经存在5年之久</font>**。足见其稳定性。**<font color="red">体验套餐低至1元</font>**。核心卖点是“用多少算多少”，不限时间、不限速，多久用完都行。更偏灵活和成本控制。支持多平台（安卓，ios，windows，mac等），多种流量可选择。
 
-**链接：** [直达官网](https://43.129.78.33:8000/register?aff=X5tCAsvJ)
+**链接：** [直达官网入口1](https://mojie.kim/register?aff=X5tCAsvJ)
+[直达官网入口2](https://47.242.128.61:8000/register?aff=X5tCAsvJ)
 
 ### ⚡ 速度表现
 
